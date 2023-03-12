@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Per Edward<br>🏫 Noroff School of Technology & Digital Media<br>📚 Frontend Development<br>🤝 Looking to collaborate on projects that involve user-centered design and responsive web development.<br>🌱 Currently learning React and exploring web accessibility standards.<br>💬 Ask me about CSS layout techniques, responsive web design, or web performance optimization.<br>🚀 Projects: Check out my blog at [https://www.pernilsen.dev/], where I talk about learning web development and design.<br>💻 Skills: HTML, CSS, JavaScript, and with basic skills in C# and SQL, and Adobe XD for design.<br>🗓️ Workflow: Some experience with Trello
+👨‍💻 Per Edward<br>🏫 Noroff School of Technology & Digital Media<br>📚 Frontend Development<br>🤝 Looking to collaborate on projects that involve user-centered design and responsive web development.<br>🌱 Currently learning React and exploring web accessibility standards.<br>💬 Ask me about CSS layout techniques, responsive web design, or web performance optimization.<br>🚀 Projects: Check out my blog at [https://www.identitybynilliz.com/], where I talk about learning web development and design.<br>💻 Skills: HTML, CSS, JavaScript, and with basic skills in C# and SQL, and Adobe XD for design.<br>🗓️ Workflow: Some experience with Trello
 
 
 ## 🌐 Socials:
