@@ -1,7 +1,10 @@
 # 💫 About Me:
 👨‍💻Name: Per Edward<br>🏫School: Noroff School of Technology & Digital Media<br>📚Profession: Frontend Development<br>🤝 Looking to collaborate on projects that involve user-centered design and responsive web development.<br>🌱 Currently learning React and exploring web accessibility standards.<br>💬 Ask me about CSS layout techniques, responsive web design, or web performance optimization.<br>🚀 Projects: Check out my blog at [https://www.identitybynilliz.com/], where I talk about learning web development and design.<br>💻 Skills: HTML, CSS, JavaScript, and with basic skills in C# and SQL, and Adobe XD for design.<br>🗓️ Workflow: Some experience with Trello <br>
-<div style="text-align: center; margin:auto; margin-top: 50px;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" style="margin: 0 auto;">
+
+
+#
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360">
 </div>
 
 
