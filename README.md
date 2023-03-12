@@ -3,12 +3,6 @@
 
 
 #
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360">
-</div>
-
-
-
 
 
 ## 🌐 Socials:
