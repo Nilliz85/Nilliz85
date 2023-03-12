@@ -3,10 +3,9 @@
 
 
 ## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/nilliz85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nilliz85" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pernilsendev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pernilsendev" height="30" width="40" /></a>
+<a href="https://dev.to/nilliz85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nilliz85" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13047517/nilliz85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13047517/nilliz85" height="30" width="40" /></a>
 <a href="https://dribbble.com/nilliz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nilliz" height="30" width="40" /></a>
 <a href="https://www.behance.net/peredwardnilsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="peredwardnilsen" height="30" width="40" /></a>
