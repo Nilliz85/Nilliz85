@@ -22,7 +22,7 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilliz85&theme=calm&hide_border=false&include_all_commits=true&count_private=true" style="height: 170px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nilliz85&theme=calm&hide_border=false&include_all_commits=true&count_private=true" style="height: 170px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilliz85&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 170px;">
 </div>
 
