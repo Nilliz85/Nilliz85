@@ -22,8 +22,8 @@
 
 # 📊 GitHub Stats:
 <div>
-<img src="https://github-readme-stats-nilliz85.vercel.app/api?username=nilliz85&theme=calm&show_icons=true&hide_border=true&count_private=true" height="160">
-<img src="https://github-readme-stats-nilliz85.vercel.app/api/top-langs/?username=nilliz85&theme=calm&show_icons=true&hide_border=true&layout=compact" height="160">
+<img src="https://github-readme-stats-eight-pied-96.vercel.app/api?username=nilliz85&theme=calm&show_icons=true&hide_border=true&count_private=true" height="160">
+<img src="https://github-readme-stats-eight-pied-96.vercel.app/api/top-langs/?username=nilliz85&theme=calm&show_icons=true&hide_border=true&layout=compact" height="160">
 </div>
 
 
