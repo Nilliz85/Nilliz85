@@ -13,6 +13,8 @@
 <a href="https://stackoverflow.com/users/13047517/nilliz85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13047517/nilliz85" height="30" width="40" /></a>
 <a href="https://dribbble.com/nilliz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nilliz" height="30" width="40" /></a>
 <a href="https://www.behance.net/peredwardnilsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="peredwardnilsen" height="30" width="40" /></a>
+<a href="https://www.codecademy.com/profiles/Nilliz85" target="blank"><img align="center" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" alt="nilliz" height="30"/></a>
+<a href="https://www.udemy.com/user/per-edward-nilsen-2/" target="blank"><img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy profile" height="30"/></a>
 </p>
 
 
@@ -27,9 +29,11 @@
 </div>
 
 
+
+
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nilliz85&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nilliz85&icon=2&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nilliz85&icon=2&color=4)](https://visitcount.itsvg.in)
